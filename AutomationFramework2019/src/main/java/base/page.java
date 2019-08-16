@@ -9,5 +9,6 @@ public class page {
 
 	public void test() {
 		System.out.println("test");
+		System.out.println("test pull request");
 	} 
 }
